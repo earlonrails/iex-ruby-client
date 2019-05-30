@@ -1,3 +1,5 @@
+require 'date'
+
 module IEX
   module Endpoints
     module Chart
